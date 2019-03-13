@@ -1,5 +1,5 @@
 # Interactive-Dictionary-in-C-
-This repository is a translation of Interactive Dictionary in Python to C++. Sourse codes in Python and data in .json formats are available at https://github.com/Dhrumilcse/Interactive-Dictionary-in-Python .
+This repository is a translation of Interactive Dictionary in Python to C++. Sourse codes in Python and data in .json format are available at https://github.com/Dhrumilcse/Interactive-Dictionary-in-Python .
 
 This dictionary retrieves definition of the word, entered by user. If the user has made a type, it suggest the closest match.
 
