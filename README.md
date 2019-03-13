@@ -5,7 +5,7 @@ This dictionary retrieves definition of the word, entered by user. If the user h
 
 ## Installing dependencies
 
-The following dependencies are used to parse data in .json format.
+The following dependencies are used to parse data in .json format:
 
 ```C++
 #include <fstream>
@@ -16,3 +16,9 @@ The following dependencies are used to parse data in .json format.
 using boost::property_tree::ptree;
 using boost::property_tree::read_json;
 ```
+## Step by step solution
+```C++
+dictionary_1.cpp
+```
+> Load the data. Created function ```retrieve_definition``` that returns vector of definitions, given the word, entered by user (key). 
+
