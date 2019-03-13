@@ -26,3 +26,9 @@ dictionary_1.cpp
 dictionary_2.cpp
 ```
 > Check for non-existing words: updated function ```retrieve_definition```.
+
+```c++
+dictionary_3.cpp
+```
+> Removing case sensitivity from the program and ensuring that program returns definition for words that start with capital letter and achronyms. Created function ```check_conditions``` that encapsulates all the checks. 
+
