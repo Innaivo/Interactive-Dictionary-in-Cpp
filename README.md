@@ -22,3 +22,7 @@ dictionary_1.cpp
 ```
 > Load the data. Created function ```retrieve_definition``` that returns vector of definitions, given the word, entered by user (key). Display all the definitions by iterating over vector. 
 
+```c++
+dictionary_2.cpp
+```
+> Check for non-existing words: updated function ```retrieve_definition```.
