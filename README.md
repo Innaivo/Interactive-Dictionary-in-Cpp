@@ -20,5 +20,5 @@ using boost::property_tree::read_json;
 ```C++
 dictionary_1.cpp
 ```
-> Load the data. Created function ```retrieve_definition``` that returns vector of definitions, given the word, entered by user (key). 
+> Load the data. Created function ```retrieve_definition``` that returns vector of definitions, given the word, entered by user (key). Display all the definitions by iterating over vector. 
 
