@@ -32,3 +32,12 @@ dictionary_3.cpp
 ```
 > Removing case sensitivity from the program and ensuring that program returns definition for words that start with capital letter and achronyms. Created function ```check_conditions``` that encapsulates all the checks. 
 
+```c++
+dictionary_4_1.cpp
+```
+> Added function ```similarity.c``` (sourse: https://github.com/wernsey/miscsrc/blob/master/simil.c) that returns returns a value between 0 and 100 which indicates how alike two strings are; based on the Ratcliff-Obershelp algorithm.
+
+```c++
+dictionary_4_2.cpp
+```
+> Created function ```get_close_matches``` that returns list of close matches.  
