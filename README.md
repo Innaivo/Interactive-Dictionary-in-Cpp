@@ -41,3 +41,14 @@ dictionary_4_1.cpp
 dictionary_4_2.cpp
 ```
 > Created function ```get_close_matches``` that returns list of close matches.  
+
+```c++
+dictionary_5.cpp
+```
+> Use function ```get_close_matches``` to suggest the closest match.
+
+```c++
+dictionary_6.cpp
+```
+
+> If suggested word is what user wants, retrieve meaning of it. 
